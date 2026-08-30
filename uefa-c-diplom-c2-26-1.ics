@@ -1,0 +1,793 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UEFA-C-Diplom OÖ 2026//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UEFA-C-Diplom C2/26-1
+X-WR-TIMEZONE:Europe/Vienna
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+X-LIC-LOCATION:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:67b4f7e29c453a35c50d@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260830T173000
+DTEND;TZID=Europe/Vienna:20260830T180000
+SUMMARY:Anmeldung/Zimmereinteilung
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:92b537c50cfa31f27fb4@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260830T180000
+DTEND;TZID=Europe/Vienna:20260830T190000
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4735645fc46e04ae30ae@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260830T190000
+DTEND;TZID=Europe/Vienna:20260830T194500
+SUMMARY:Begrüßung – Ablauf\; Trainerordnung
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Hausaufgabe – Videodoku\; Praxis als Trainer (schriftliche Do
+ kumentation und Videodokumentation)\nInstruktor(en): Weissenböck\nBereich
+ : LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9acb5ca7f9467e566d0@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260830T194500
+DTEND;TZID=Europe/Vienna:20260830T210000
+SUMMARY:Trainingsplanung – Trainingsgestaltung
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Kurz-\, mittel- und langfristige Trainingsplanung\nInstruktor(e
+ n): Weissenböck\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4704c246aa66ac45e886@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T074500
+DTEND;TZID=Europe/Vienna:20260831T083000
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b063af6acde095c85cf7@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T083000
+DTEND;TZID=Europe/Vienna:20260831T094500
+SUMMARY:Frauenfußball
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Schwendtner\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b677dda8b446558e388@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T100000
+DTEND;TZID=Europe/Vienna:20260831T110000
+SUMMARY:Fußballkondition
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Sieghartsleitner\, Schwendtner\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a981bb72c26ec35182@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T111500
+DTEND;TZID=Europe/Vienna:20260831T121500
+SUMMARY:PMÜ – Schnelligkeit\, Kraft
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Instruktor(en): Sieghartsleitner\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:298d28e1976664fa9cbd@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T121500
+DTEND;TZID=Europe/Vienna:20260831T131500
+SUMMARY:Mittagessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6980209e5cb485bc61ee@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T131500
+DTEND;TZID=Europe/Vienna:20260831T141500
+SUMMARY:PMÜ – Schnelligkeit\, Kraft
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Instruktor(en): Sieghartsleitner\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c58ddafebe24d09feff6@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T144500
+DTEND;TZID=Europe/Vienna:20260831T160000
+SUMMARY:Grundlagen der Medizin und Physiologie
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Medizinische Auffälligkeiten\, Verletzungsprophylaxe\; Ernähr
+ ung\nInstruktor(en): Sieghartsleitner\, Schwendtner\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:89e00580bc77cd85b479@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T161500
+DTEND;TZID=Europe/Vienna:20260831T183000
+SUMMARY:Selbstwahrnehmung und emotionale Intelligenz
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Selbstwahrnehmung\, Selbstregulation\, Emotionskontrolle\, emot
+ ionale Intelligenz\nInstruktor(en): Baumgartner\, Causevic\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:86041b97364cda4abefb@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260831T183000
+DTEND;TZID=Europe/Vienna:20260831T193000
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7906b7f2bf79b41b79b8@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T074500
+DTEND;TZID=Europe/Vienna:20260901T083000
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:64c6f884fc910e277a7b@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T083000
+DTEND;TZID=Europe/Vienna:20260901T091500
+SUMMARY:Fußballkondition
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Sieghartsleitner\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c38a50defe962c7a6577@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T093000
+DTEND;TZID=Europe/Vienna:20260901T110000
+SUMMARY:PMÜ – Ausdauer
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Instruktor(en): Sieghartsleitner\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0cee8a4f259b3923ae@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T111500
+DTEND;TZID=Europe/Vienna:20260901T123000
+SUMMARY:PMÜ – Koordination/Beweglichkeit/Mobilisation
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Integration in den Trainingsprozess (z. B. Aufwärmen)\nInstruk
+ tor(en): Sieghartsleitner\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f0ed19161374ac28d55@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T123000
+DTEND;TZID=Europe/Vienna:20260901T134500
+SUMMARY:Mittagessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:637dbe36a1caae28985f@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T134500
+DTEND;TZID=Europe/Vienna:20260901T151500
+SUMMARY:Fußballkondition: Belastungssteuerung
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Trainingsplanung und motorische Entwicklung\nInstruktor(en): Si
+ eghartsleitner\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:968d35839001bd848e30@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T153000
+DTEND;TZID=Europe/Vienna:20260901T164500
+SUMMARY:Coachingmodelle und Techniken\, Feedback
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Spielerbesprechungen\; Spiel- und Wettkampfcoaching\nInstruktor
+ (en): Weissenböck\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7b5306daa461c85ced9@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T170000
+DTEND;TZID=Europe/Vienna:20260901T183000
+SUMMARY:Coaching in der Praxis
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Interventionen und Auswirkungen\nInstruktor(en): Weissenböck\,
+  Schweitzer\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:48809fb83ec556001e4b@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T183000
+DTEND;TZID=Europe/Vienna:20260901T193000
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e36633fd19cba5740082@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260901T193000
+DTEND;TZID=Europe/Vienna:20260901T203000
+SUMMARY:Leadership-Qualitäten und Gruppendynamiken
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Kommunikation\nInstruktor(en): Weissenböck\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a10e7c4e188ee37725@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T074500
+DTEND;TZID=Europe/Vienna:20260902T083000
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a41170ad7a9eb8539d3@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T083000
+DTEND;TZID=Europe/Vienna:20260902T100000
+SUMMARY:Techniktraining
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Ausführungs- und Entscheidungstraining\; Variationstraining\; 
+ differentielles Training\nInstruktor(en): Schweitzer\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b29f6442e71ff26f5845@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T101500
+DTEND;TZID=Europe/Vienna:20260902T114500
+SUMMARY:PMÜ – Techniktraining: Zuspiel/BA/BM
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Positionstechniken\; spielnahes Techniktraining\nInstruktor(en)
+ : Schweitzer\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2f41e2b3f30513638d@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T120000
+DTEND;TZID=Europe/Vienna:20260902T130000
+SUMMARY:Mittagessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b56858f06beaf262be@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T130000
+DTEND;TZID=Europe/Vienna:20260902T151500
+SUMMARY:PMÜ – Techniktraining: Kopfball\, Torschuss
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Positionstechniken\; spielnahes Techniktraining\nInstruktor(en)
+ : Reich\, Scheiblehner\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f326522f29bf626b218b@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T153000
+DTEND;TZID=Europe/Vienna:20260902T170000
+SUMMARY:PMÜ – Fußballtaktik: Standardsituationen
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Instruktor(en): Reich\, Scheiblehner\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:528407bed572c1957abe@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T171500
+DTEND;TZID=Europe/Vienna:20260902T184500
+SUMMARY:Fußballtaktik: Standardsituationen
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Reich\, Scheiblehner\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:977a328494c8bf793664@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260902T184500
+DTEND;TZID=Europe/Vienna:20260902T194500
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94554c00196daf7289aa@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T074500
+DTEND;TZID=Europe/Vienna:20260903T083000
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:af46a5e50d9b1cf667f0@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T083000
+DTEND;TZID=Europe/Vienna:20260903T094500
+SUMMARY:Modernes Torwarttraining
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Grundlagen\; Integration ins Mannschaftstraining\nInstruktor(en
+ ): Razenböck\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:16efd977cc080797d62c@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T101500
+DTEND;TZID=Europe/Vienna:20260903T114500
+SUMMARY:PMÜ – Modernes Torwarttraining
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Grundlagen\; Integration ins Mannschaftstraining\nInstruktor(en
+ ): Razenböck\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:159844cab2f286d23cda@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T120000
+DTEND;TZID=Europe/Vienna:20260903T130000
+SUMMARY:Mittagessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4f4ae76c29fd8aa414@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T130000
+DTEND;TZID=Europe/Vienna:20260903T141500
+SUMMARY:Spielnahes Techniktraining
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Differentielles Training\; Entscheidungsfindung – kognitives 
+ Modell\nInstruktor(en): Heißl\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:681d39a0c78952e7b41b@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T143000
+DTEND;TZID=Europe/Vienna:20260903T160000
+SUMMARY:PMÜ – Spielnahes Techniktraining
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Differentielles Training\; Entscheidungsfindung – kognitives 
+ Modell\nInstruktor(en): Heißl\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5beed47cc7207ea4353b@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T163000
+DTEND;TZID=Europe/Vienna:20260903T181500
+SUMMARY:Videoanalyse – Aufgabe und Präsentation
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Gruppenarbeit\nInstruktor(en): Weissenböck\, Schweitzer\nBerei
+ ch: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:31119bd81932e2b47d9e@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260903T181500
+DTEND;TZID=Europe/Vienna:20260903T191500
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3eec4a5c9636d00b79e9@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260904T074500
+DTEND;TZID=Europe/Vienna:20260904T083000
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d66d72e3856bad071103@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260904T083000
+DTEND;TZID=Europe/Vienna:20260904T094500
+SUMMARY:Fußballtaktik: Individualtaktik
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Positionsaufgaben\; offensiv und defensiv 1:1\nInstruktor(en): 
+ Weissenböck\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0342f7a3ae513fd793@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260904T100000
+DTEND;TZID=Europe/Vienna:20260904T114500
+SUMMARY:PMÜ – Techniktraining: Dribbling\, Finten
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Positionstechniken\; spielnahes Techniktraining\; Individualtak
+ tik – 1:1 offensiv und defensiv\nInstruktor(en): Weissenböck\nBereich: 
+ NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8c308d5461fde2fec7@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260904T120000
+DTEND;TZID=Europe/Vienna:20260904T130000
+SUMMARY:Mittagspause
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:33bfbf372fe0202381c1@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260904T130000
+DTEND;TZID=Europe/Vienna:20260904T141500
+SUMMARY:Fußballtaktik: ÜZ/UZ
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Starke Entscheider auf dem Platz\nInstruktor(en): Heißl\nBerei
+ ch: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:74a9135d5938a947f306@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20260904T143000
+DTEND;TZID=Europe/Vienna:20260904T163000
+SUMMARY:PMÜ – ÜZ/UZ/GZ offensiv und defensiv
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Instruktor(en): Heißl\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:76fe469c99d55cc66984@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261009T150000
+DTEND;TZID=Europe/Vienna:20261009T153000
+SUMMARY:Anmeldung/Zimmereinteilung
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba8b261a672786a9d247@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261009T153000
+DTEND;TZID=Europe/Vienna:20261009T160000
+SUMMARY:Wiederholung Teil 1
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+DESCRIPTION:Instruktor(en): Weissenböck
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad83c548a8c10aa15b1@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261009T163000
+DTEND;TZID=Europe/Vienna:20261009T180000
+SUMMARY:PMÜ – Gruppen- und Mannschaftstaktik offensiv
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Positionsspiel\; Konstruktion (Spiel in die Tiefe/Spielverlager
+ ung)\; inklusive athletischer Steuerung\nInstruktor(en): Weissenböck\, Ca
+ usevic\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4aacfbbea127d7bc8f3@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261009T180000
+DTEND;TZID=Europe/Vienna:20261009T190000
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba77a69c571ca909c28@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261009T190000
+DTEND;TZID=Europe/Vienna:20261009T210000
+SUMMARY:Fußballtaktik offensiv
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Gruppen- und Mannschaftstaktik\; Umschaltphasen\nInstruktor(en)
+ : Weissenböck\, Causevic\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f72e63dea44acf28f7e4@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T074500
+DTEND;TZID=Europe/Vienna:20261010T083000
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5215eac4ded0304eedf7@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T083000
+DTEND;TZID=Europe/Vienna:20261010T100000
+SUMMARY:PMÜ – Gruppen- und Mannschaftstaktik offensiv
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Positionsspiel\; gruppentaktische Angriffsmittel und 2. Ball (S
+ piel in die Tiefe/Spielverlagerung)\; inklusive athletischer Steuerung\nIn
+ struktor(en): Weissenböck\, Causevic\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:15f69b5b39c977d82575@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T101500
+DTEND;TZID=Europe/Vienna:20261010T111500
+SUMMARY:PMÜ – Gruppentaktik defensiv und Konter
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Dreierkette\, Viererkette\nInstruktor(en): Schweitzer\, Heißl\
+ nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70c9b5eb5d3c82fb95b9@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T111500
+DTEND;TZID=Europe/Vienna:20261010T120000
+SUMMARY:PMÜ – Gruppentaktik defensiv und Konter
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Raumdeckung\; Pressing\nInstruktor(en): Schweitzer\, Heißl\nBe
+ reich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aab6bdeea8d548bffef2@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T120000
+DTEND;TZID=Europe/Vienna:20261010T130000
+SUMMARY:Mittagessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+DESCRIPTION:Die PDF nennt um 12:00 Uhr keinen Titel\; Mittagessen wurde aus
+  dem Tagesablauf abgeleitet.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb0561b731664ba9bba@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T130000
+DTEND;TZID=Europe/Vienna:20261010T143000
+SUMMARY:Fußballtaktik defensiv
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Gruppen- und Mannschaftstaktik\nInstruktor(en): Schweitzer\nBer
+ eich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c20685a759f750814a0@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T144500
+DTEND;TZID=Europe/Vienna:20261010T154500
+SUMMARY:PMÜ – Mannschaftstaktik defensiv und Konter
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Raumdeckung\; Pressing\; 2. Ball\nInstruktor(en): Schweitzer\nB
+ ereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a979fa5c710dfc746c3@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T161500
+DTEND;TZID=Europe/Vienna:20261010T181500
+SUMMARY:Videodoku – Hausaufgabe
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Weissenböck\, Schweitzer\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:57350ac3ce0799cf3485@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T181500
+DTEND;TZID=Europe/Vienna:20261010T183000
+SUMMARY:Vorbereitung Lehrauftritt
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Weissenböck\, Schweitzer\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8af29ff1aef51ed36ce5@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261010T183000
+DTEND;TZID=Europe/Vienna:20261010T193000
+SUMMARY:Abendessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1109887a4ab3b4971812@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261011T074500
+DTEND;TZID=Europe/Vienna:20261011T084500
+SUMMARY:Frühstück
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e211308b5e93d971d613@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261011T090000
+DTEND;TZID=Europe/Vienna:20261011T120000
+SUMMARY:Lehrauftritte: Technik\, Taktik\, Athletik und Coaching
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Exemplarische Trainingseinheit (2 Gruppen)\nInstruktor(en): Wei
+ ssenböck\, Heißl\, Schweitzer\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e6cbaa1bf21e0805d79@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261011T120000
+DTEND;TZID=Europe/Vienna:20261011T130000
+SUMMARY:Mittagessen
+LOCATION:Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\, 4831 Obertraun
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6c0e58016e94e804ea@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261011T130000
+DTEND;TZID=Europe/Vienna:20261011T160000
+SUMMARY:Lehrauftritte: Technik\, Taktik\, Athletik und Coaching
+LOCATION:Naturfeld (NF)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49
+ \, 4831 Obertraun
+DESCRIPTION:Exemplarische Trainingseinheit (alle)\nInstruktor(en): Weissenb
+ öck\, Heißl\, Schweitzer\nBereich: NF
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:07ea1929530e367056d8@uefa-c-diplom.local
+DTSTAMP:20260830T201748Z
+DTSTART;TZID=Europe/Vienna:20261011T160000
+DTEND;TZID=Europe/Vienna:20261011T163000
+SUMMARY:Abschluss
+LOCATION:Lehrsaal (LS)\, Austrian Sports Resorts BSFZ Obertraun\, Winkl 49\
+ , 4831 Obertraun
+DESCRIPTION:Instruktor(en): Weissenböck\, Schweitzer\nBereich: LS
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
